@@ -16,8 +16,8 @@
 # St, Fifth Floor, Boston, MA 02110-1301 USA.
 
 # noinspection PyUnresolvedReferences
-from future import standard_library
-standard_library.install_aliases()
+# from future import standard_library
+# standard_library.install_aliases()
 
 from . import _a11y
 from .AXClasses import NativeUIElement
